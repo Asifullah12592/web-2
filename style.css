@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: border-box;
+}
+.navbar{
+    height: 200px !important;
+    background-color: rgb(241, 169, 14);
+}
+.d-flex{
+   
+    /* width: 70% !important;
+    height: 50px !important;
+    left: 50px; */
+}
+.n2{
+    height: 60px !important;
+    background-color: rgb(241, 169, 14) !important;
+    border-top: 1px solid gray !important;
+
+}
+.q1 img{
+    height: 300px !important;
+}
+.navbar-nav{
+    text-align: center !important;
+    /* align-items: center !important; */
+    margin: auto !important;
+    /* border: 1px solid black !important; */
+    width: 70% !important;
+    /* padding: 20px !important; */
+    
+    
+}
+.navbar-nav a{
+    margin: 0px 30px !important;
+}
+
+/* end */
+.carousel-item img{
+  /* width: 400px !important; */
+    height: 400px !important;  
+    background-color: bisque;
+    margin: auto;
+}
+.nav3{
+    background-color: rgb(192, 178, 178) !important;
+    height: 70px !important;
+    margin-top: 80px !important;
+}
+
+.navbar-text{
+     /* width: 600px !important; */
+    margin-right: 80px !important;
+    height: 50px !important;
+    /* border: 1px solid black !important; */
+}
+.card 2-1{
+   height: 50px !important;
+   
+}
+.nav4{
+    background-color: rgba(0, 139, 139, 0.733) !important;
+    height: 70px !important;
+    margin-top: 80px !important;
+}
+
+
+
+
+.TAFASEER img{
+    height: 300px !important;
+}
+.TAFASEER h5{
+    font-size: 36px !important;
+    color: red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* border: 1px solid black !important; */
+}
+.a1-icon{
+    
+    /* height: 220px; */
+    border: 1px solid gainsboro !important;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.a1-2,.a1-3,.a1-1,.a1-4{
+    /* border: 1px solid red !important; */
+    margin: auto;
+    width: 280px;
+    height: 100px;
+    margin-left: 0px;
+    
+
+}
+.icon1{
+    /* border: 1px solid rgb(76, 0, 255) !important; */
+    /* text-align: left; */
+    margin-top: 5px;
+    /* margin-left: 0; */
+    display: flex;
+    /* font-size: 42px;
+    color: rgb(248, 153, 10); */
+}
+.icon1 i{
+    text-align: left;
+    margin: 25px 10px;
+    
+    font-size: 42px;
+    color: rgb(248, 153, 10);
+}
+.icon1 p{
+    font-size: 24px;
+    font-weight: bold;
+}
+.icon1 span{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+/* end end */
+
+.m-nav{
+    border: 1px solid gray !important;
+    background-color: gainsboro !important;
+}
+.brand{
+    font-size: 28px !important;
+    font-weight: bold !important;
+
+}
+.brand span{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+.m-nav{
+    border: 1px solid gray !important;
+}
+.m-nav input{
+    width: 100% !important;
+} 
+.m-nav button{
+    width: 150px !important;
+    background-color: rgb(250, 181, 6);
+    color: black;
+}
+.sec{
+    border-bottom: 1px solid gray !important;
+    height: 500px;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+.sec .row{
+    display: flex;
+    /* align-items: center; */
+   
+    /* justify-content: center; */
+    /* align-items: center; */
+
+}
+.sec-l{
+    margin-left: 20px;
+    /* border: 1px solid gray !important; */
+
+   
+}
+.icon-5{
+    color: blue;
+    font-size: 24px;
+     border: 1px solid gray !important; 
+
+}
+
+.sec-l ul{
+    margin-top: 50px;
+   text-decoration:none;
+   list-style: none;
+}
+
+
+.sec-l ul a{
+    text-decoration:none ;
+    color: black;
+} 
+.sec-4 p{
+    font-size: 24px;
+    text-align: justify;
+    font-weight: bold;
+}
+.sec-4 h5{
+    text-align: center;
+}
+.sec-4{
+    width: 35%;
+    margin-top: 20px;
+
+}
+
+
+
+.last{
+    height: 200px;
+    /* border: 1px solid gray !important; */
+}
+
+
+.row .last div{
+    margin-left: 20px !important;
+
+}
+.last{
+    margin-top:100px ;
+    margin-left: 50px;
+    font-size: 24;
+}
+.l-1{
+    font-size: 16px;
+}
+.l-2{
+    font-size: 22px;
+}
+.scrool{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 100px;
+    border-radius: 46%;
+    /* border: 1px solid red; */
+    
+
+}
+.scrool:hover{
+    background-color: rgb(250, 181, 6);
+
+}
+.scrool a i{
+    margin: auto;
+    position: absolute;
+    left: 9px;
+    top: 5px;
+}
+
+
+
+
+    
+
+
+
